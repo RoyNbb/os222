@@ -19,4 +19,7 @@ ZCZC W01 80 L02 Zoom meetings session 08/09/2022
 ZCZC W01 30 L61 installing virtual box 
 ZCZC W01 145 L11 Assignment #1 progress
 ZCZC W01 15 L08 discusing problems found while doing Assignment #1 with friends
-ZCZC W01 10 L03 updating mylog 
+ZCZC W01 10 L03 updating mylog  ZCZC W01 7 L03 updating mylog 
+ZCZC W01 180 L11 finishing Assignment #1
+ZCZC W01 30 L05 rereading week1 materials
+ZCZC W01 5 LO3 updating mylog
