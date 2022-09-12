@@ -4,4 +4,4 @@ By {{ site.author }}
 This is my static website  and I am Roy..
 
 This is the way!
-© {{ site.copyright }} --- Roy Maruli Tua Nababan --- Version: {{ site.version }}.
+© {{ site.copyright }} --- {{site.author}} --- Version: {{ site.version }}.
