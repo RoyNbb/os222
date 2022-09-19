@@ -34,7 +34,7 @@ ZCZC W02 115 L11 Assignment #2 progress
 ZCZC W02 15 L01 monitoring SCELE/Discord for anything related to OS class
 ZCZC W02 60 L05 studying by watching the videos given in assignment and reviews for quiz
 ZCZC W02 150 L02 finishing Assignment #1
-ZCZC W01 15 L08 discusing problems found while doing Assignment #2 with friends
+ZCZC W02 15 L08 discusing problems found while doing Assignment #2 with friends
 ZCZC W02 10 L41 updating mylog 
 ZCZC W02 5 L03 add, commit, push to github 
 
