@@ -26,3 +26,17 @@ ZCZC W01 5 LO3 updating mylog
 ZCZC W01 45 L11 completing and correcting markdowns
 ZCZC W01 5 L41 updating mylog.txt
 ZCZC W01 5 L03 add, commit, push to github 
+ZCZC W02 100 L02 ZOOM meetings session 13/09/2022
+ZCZC W02 10 L05 review the materials from the lecture session before
+ZCZC W02 100 L02 ZOOM meetings session 15/09/2022
+ZCZC W02 10 L05 review the materials from the lecture session before
+ZCZC W02 115 L11 Assignment #2 progress 
+ZCZC W02 15 L01 monitoring SCELE/Discord for anything related to OS class
+ZCZC W02 60 L05 studying by watching the videos given in assignment and reviews for quiz
+ZCZC W02 150 L02 finishing Assignment #1
+ZCZC W01 15 L08 discusing problems found while doing Assignment #2 with friends
+ZCZC W02 10 L41 updating mylog 
+ZCZC W02 5 L03 add, commit, push to github 
+
+
+
