@@ -33,10 +33,17 @@ ZCZC W02 10 L05 review the materials from the lecture session before
 ZCZC W02 115 L11 Assignment #2 progress 
 ZCZC W02 15 L01 monitoring SCELE/Discord for anything related to OS class
 ZCZC W02 60 L05 studying by watching the videos given in assignment and reviews for quiz
-ZCZC W02 150 L02 finishing Assignment #1
+ZCZC W02 150 L02 finishing Assignment #2
 ZCZC W02 15 L08 discusing problems found while doing Assignment #2 with friends
 ZCZC W02 10 L41 updating mylog 
 ZCZC W02 5 L03 add, commit, push to github 
-
-
-
+ZCZC W03 100 L02 ZOOM meetings session 20/09/2022
+ZCZC W03 10 L05 review the materials from the lecture session before
+ZCZC W03 100 L02 ZOOM meetings session 22/09/2022
+ZCZC W03 10 L05 review the materials from the lecture session before
+ZCZC W03 15 L01 monitoring SCELE/Discord for anything related to OS class
+ZCZC W03 150 L11 Assignment #3 progress 
+ZCZC W03 60 L05 studying and reviewing for quiz
+ZCZC W03 10 L41 updating mylog
+ZCZC W03 170 L11 finishing Assignment #3
+ZCZC W03 5 L03 add, commit, push to github
