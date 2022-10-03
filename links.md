@@ -13,7 +13,7 @@ permalink: LINKS/
 <br>
 <hr>
 
-# Week 1
+
 1. [Shell Scripting Cheatsheet](https://devhints.io/bash)<br>
 Quick help for shell scripting.
 This cheatsheet help me when I forgot about the syntaxs for shell scripting.
@@ -25,27 +25,25 @@ This cheatsheet help me when I forgot about the commands for CLI.
 3. [How to Use Nano](https://linuxize.com/post/how-to-use-nano-text-editor/)<br>
 Since VIM can be a bit challenging, I tried to learn Nano first, the alternative of VIM which most forums said are simpler to use, for this week assignment.
 
-# Week 2
-1. [Cyber Security Introduction](https://www.youtube.com/watch?v=rcDO8km6R6c)<br>
+4. [Cyber Security Introduction](https://www.youtube.com/watch?v=rcDO8km6R6c)<br>
 Although this is a pretty long video for an introduction, I watched it longer than I planned for because of the intersting materials and how the video creator taught it.
 
-2. [Roadmap Cyber Security](https://itgid.org/roadmap-karir-cyber-security-professional/)<br>
+5. [Roadmap Cyber Security](https://itgid.org/roadmap-karir-cyber-security-professional/)<br>
 This website help me to know the details and ways that can be taken if a person is focusing on cyber security.
 
-3. [Learn How to Use GPG](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91e)<br> 
+6. [Learn How to Use GPG](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91e)<br> 
 This article help me to understand more about the usage of GPG.
 
-4. [How to Delete GPG Keys](https://linuxhint.com/delete-gpg-keys-linux/)<br>
+7. [How to Delete GPG Keys](https://linuxhint.com/delete-gpg-keys-linux/)<br>
 This website help me to delete GPG keys when I wanted to make a new one because I accidentally put the wrong email in the old keys.
 
-#Week 3
-1. [What is ".bash_aliases"](https://opensource.com/article/19/17/bash-aliases)<br>
+8. [What is ".bash_aliases"](https://opensource.com/article/19/17/bash-aliases)<br>
 Although I've made bash alias from past assignments, I haven't fully understand it when I'm doing this week assignment. This article help me to understand it more.
 
-2. [grep Command Cheatsheet](https://www.geeksforgeek.org/grep-command-in-unixlinux/)<br>
+9. [grep Command Cheatsheet](https://www.geeksforgeek.org/grep-command-in-unixlinux/)<br>
 Quick help for using grep command.
 
-3. [Linux File System](https://www.javatpoint.com/linux-file-system)<br>
+10. [Linux File System](https://www.javatpoint.com/linux-file-system)<br>
 This article help me to learn linux file system and understand what am I actually doing in this week assignment.
 
 
