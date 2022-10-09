@@ -59,3 +59,18 @@ ZCZC W04 80 L11 doing weekly assingment
 ZCZC W04 15 L43 TXT/myrank.txt related
 ZCZC W04 15 L41 TXT/mylog.txt related
 ZCZC W04 20 L98 contemplating my major choice
+ZCZC W05 100 L02 online lecture session
+ZCZC W05 20 L05 review the materials from the lecture session before
+ZCZC W05 100 L02 offline lecture session
+ZCZC W05 20 L05 review the materials from the lecture session before
+ZCZC W05 50 L05 studying and reviewing for quiz 02
+ZCZC W05 70 L05 studying and doing quiz 01
+ZCZC W05 200 L11 doing and understanding this week assignment
+ZCZC W05 15 L01 reading the GENERAL forum in scele
+ZCZC W05 60 L11 redoing this week assignment because i didn't do it in the low memory debian
+ZCZC W05 60 L05 POP QUIZ related
+ZCZC W05 15 L43 TXT/myrank.txt related
+ZCZC W05 15 L41 TXT/mylog.txt related
+ZCZC W05 20 L98 convincing myself that i chose the right major 
+ZCZC W05 10 L70 relizing that i could just implement one linked list in my Data Structure Algorithm lab
+ 

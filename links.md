@@ -46,6 +46,8 @@ Quick help for using grep command.
 10. [Linux File System](https://www.javatpoint.com/linux-file-system)<br>
 This article help me to learn linux file system and understand what am I actually doing in this week assignment.
 
+11. [C Beginner's Handbook](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
+This article pretty much sum up the basic of C language. Because of this article, I can modified the c files for weekly assignments.
 
 <br>
 <hr>
