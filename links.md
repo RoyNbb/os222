@@ -49,6 +49,9 @@ This article help me to learn linux file system and understand what am I actuall
 11. [C Beginner's Handbook](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
 This article pretty much sum up the basic of C language. Because of this article, I can modified the c files for weekly assignments.
 
+12. [How to use scp](https://www.hostinger.co.id/tutorial/scp-linux)
+This article help me to remember how to use scp to copy files 
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

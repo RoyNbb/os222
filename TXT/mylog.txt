@@ -85,3 +85,14 @@ ZCZC W06 80 L11 doing weekly assingment
 ZCZC W06 15 L43 TXT/myrank.txt related
 ZCZC W06 15 L41 TXT/mylog.txt related
 ZCZC W06 20 L98 set up a weekly reminder for os quiz so i wont miss it again 
+ZCZC W07 100 L02 ZOOM meetings session
+ZCZC W07 20 L05 review the materials from the lecture session before
+ZCZC W07 100 L02 offline lecture session 
+ZCZC W07 20 L05 review the materials from the lecture session before
+ZCZC W07 60 L05 studying and doing quiz 01 
+ZCZC W07 75 L05 studying for quiz 02, but forgot to do it
+ZCZC W07 45 L05 POP QUIZ related 
+ZCZC W07 150 L11 completing weekly assingment 
+ZCZC W07 50 L05 POP QUIZ related
+ZCZC W07 15 L43 TXT/myrank.txt related
+ZCZC W07 15 L41 TXT/mylog.txt related
