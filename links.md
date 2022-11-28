@@ -52,6 +52,10 @@ This article pretty much sum up the basic of C language. Because of this article
 12. [How to use scp](https://www.hostinger.co.id/tutorial/scp-linux)
 This article help me to remember how to use scp to copy files 
 
+113. [Linux from scratch](https://www.linuxfromscratch/lfs/view/11.2/)
+This website contain how to linux from scratch
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

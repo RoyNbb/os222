@@ -107,3 +107,15 @@ ZCZC W08 240 L11 completing weekly assingment
 ZCZC W08 60 L05 POP QUIZS related
 ZCZC W08 15 L43 TXT/myrank.txt related
 ZCZC W08 15 L41 TXT/mylog.txt related
+ZCZC W09 100 L02 ZOOM meetings session
+ZCZC W09 20 L05 review the materials from the lecture session before
+ZCZC W09 100 L02 offline lecture session 
+ZCZC W09 20 L05 review the materials from the lecture session before
+ZCZC W09 60 L05 studying and doing quiz 01 
+ZCZC W09 75 L05 studying for quiz 02
+ZCZC W09 45 L05 POP QUIZ related 
+ZCZC W09 300 L11 completing weekly assignment 
+ZCZC W09 45 L05 POP QUIZS related
+ZCZC W09 15 L43 TXT/myrank.txt related
+ZCZC W09 15 L41 TXT/mylog.txt related
+ZCZC W09 20 L98 healing
